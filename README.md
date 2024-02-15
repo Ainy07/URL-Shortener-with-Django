@@ -1,6 +1,6 @@
 # URL-Shortener-with-Django
 using django
-##First to create virtual environment 
+##First to create virtual environment ---- python -m venv venv ----venv/scripts/activate
 
 
 # Django URL Shortener
